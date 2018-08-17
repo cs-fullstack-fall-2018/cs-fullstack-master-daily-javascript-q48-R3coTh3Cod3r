@@ -35,7 +35,7 @@ The following page is shown in the browser:
 What will be displayed in the console?
 <hr>
 Choose the correct answer
-
+-------> The answer is 4
 1) Square: 10x10
 
    Square: 10x10
